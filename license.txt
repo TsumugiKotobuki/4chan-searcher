@@ -33,3 +33,7 @@ Rules of the No Bulli Public License
 
 -Every dog except for pugs
 -Kalyx 
+
+9.This license is untouchable
+
+10.If any of those above descriped rules don't describe your purpose of changing the software/you then do whatever the fuck you want.
