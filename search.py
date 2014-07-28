@@ -16,7 +16,7 @@ data = json.loads(json_text)
 
 while True:
 
-word=str(input("Enter search: "))
+    word=str(input("Enter search: "))
 
     for i in list(data['threads'].values()):
         text = i['teaser']
