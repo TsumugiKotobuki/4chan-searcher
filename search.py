@@ -13,9 +13,10 @@ json_text = re.search(r'.*var\s*catalog\s*=\s*({.*?});',
 
 data = json.loads(json_text)
 
-word=str(input("Enter search: "))
 
 while True:
+
+word=str(input("Enter search: "))
 
     for i in list(data['threads'].values()):
         text = i['teaser']
